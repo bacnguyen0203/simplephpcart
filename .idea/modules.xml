@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../applogin/.idea/applogin.iml" filepath="$PROJECT_DIR$/../applogin/.idea/applogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/simplephpcart.iml" filepath="$PROJECT_DIR$/.idea/simplephpcart.iml" />
     </modules>
   </component>

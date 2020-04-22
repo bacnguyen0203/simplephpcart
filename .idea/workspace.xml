@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74879aa6-5546-4199-8427-f9c89331581f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/.idea/applogin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/homepage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applogin/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/simplephpcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simplephpcart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,21 +26,31 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../applogin" />
   </component>
   <component name="ProjectId" id="1ZHuNswwa3dAFNBB2hpubCjePVB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../applogin" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,6 +64,8 @@
       <updated>1584799740716</updated>
       <workItem from="1584799742452" duration="1718000" />
       <workItem from="1585035059990" duration="6080000" />
+      <workItem from="1585152157278" duration="843000" />
+      <workItem from="1585240063661" duration="641000" />
     </task>
     <servers />
   </component>
@@ -58,9 +77,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="111" key="#PHP/-1920.489.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585040132782" />
-    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1585035081469">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1585240690102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="444" key="NewPhpFileDialog/-1920.489.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585035081469" />
+    <state x="740" y="276" key="FileChooserDialogImpl/-1920.489.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585240690102" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1585240130328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/-1920.489.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585240130328" />
   </component>
 </project>
